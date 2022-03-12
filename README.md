@@ -9,10 +9,10 @@ In this trivia challenge users will put their knowledge to the test by attemptin
 
 ## Links
 Repository:
-https://github.com/JSplish/Try-My-Trivia
+https://github.com/joelcutler/try-my-trivia
 
 Deployed Link:
-https://jsplish.github.io/Try-My-Trivia/
+https://joelcutler.github.io/try-my-trivia/
 
 ## Screenshots
 <img src="./assets/images/homepage.jpg">
