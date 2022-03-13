@@ -1,7 +1,7 @@
 body,
 html {
     height: 100%;
-    background-color: #ffdd57;
+    background-color: #c1d726;
 }
 
 .hide {
@@ -26,4 +26,25 @@ input {
     /* height: 50px; */
     width: 50%!important;
     /* font-size: large; */
+}
+
+
+/* 
+#logo-burger {
+    display: inline;
+} */
+
+.navbar-burger {
+    color: #c1d726!important;
+}
+
+#logo {
+    max-height: 75px;
+    /* justify-items: center; */
+}
+
+@media screen and (max-width: 768px) {
+    #logo {
+        max-height: 50px;
+    }
 }
